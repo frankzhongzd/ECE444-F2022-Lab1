@@ -1,6 +1,6 @@
 # ECE444-F2022-Lab1
 
-Kevin Mi
+Frank Zhong
 
 **Activity 1**
 
